@@ -1,6 +1,6 @@
 ![Depth API](./Media/DepthOppie.png)
 # Depth API
-Depth API is a new feature that exposes to applications real-time, per-eye, per-frame, environment depth estimates from the headset’s point of view.
+Depth API is a new feature that exposes to applications real-time, per-eye, per-frame, environment depth estimates from the headset’s point of view(s).
 This repository shows how Depth API can be used to implement dynamic occlusions.
 This technique is essential for rendering believable visual interactions between virtual and physical content in your apps, enabling a more coherent sense of reality for your users.
 
